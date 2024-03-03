@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/HealthRunner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/HealthRunner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/HealthRunner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Doctor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/NormalPerson.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/SuperPerson.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/repository/PersonRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/saglik/Runner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utility/Databases.java" charset="UTF-8" />
+  </component>
+</project>

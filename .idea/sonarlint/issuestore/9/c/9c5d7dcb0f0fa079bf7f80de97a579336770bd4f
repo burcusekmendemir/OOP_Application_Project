@@ -1,0 +1,31 @@
+
+b
+java:S1854"@Remove this useless assignment to local variable "normalPerson".(§šªêþÿÿÿÿ8Þ¨ñ±à1
+S
+java:S1481"1Remove this unused "normalPerson" local variable.(§šªêþÿÿÿÿ8ß¨ñ±à1
+]	java:S125"<This block of commented-out lines of code should be removed.(ýŸõüÿÿÿÿ8à¨ñ±à1
+L	java:S1063"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8á¨ñ±à1
+G	java:S1064"+Replace this use of System.out by a logger.(õõ²ž8á¨ñ±à1
+L	java:S106:"+Replace this use of System.out by a logger.(®¢©úùÿÿÿÿ8â¨ñ±à1
+L	java:S106;"+Replace this use of System.out by a logger.(¹ä÷±ùÿÿÿÿ8â¨ñ±à1
+G	java:S106<"+Replace this use of System.out by a logger.(˜òó¸8â¨ñ±à1
+G	java:S106A"+Replace this use of System.out by a logger.(¶Ää©8â¨ñ±à1
+L	java:S106B"+Replace this use of System.out by a logger.(èíäùÿÿÿÿ8â¨ñ±à1
+L	java:S106J"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ã¨ñ±à1
+L	java:S106K"+Replace this use of System.out by a logger.(ºü¡€ÿÿÿÿÿ8ã¨ñ±à1
+L	java:S106Q"+Replace this use of System.out by a logger.(£•¨ìüÿÿÿÿ8ã¨ñ±à1
+G	java:S106U"+Replace this use of System.out by a logger.(¦ñïî8ä¨ñ±à1
+L	java:S106]"+Replace this use of System.out by a logger.(íôÛ‚üÿÿÿÿ8ä¨ñ±à1
+G	java:S106c"+Replace this use of System.out by a logger.(ýìŽ8ä¨ñ±à1
+G	java:S106g"+Replace this use of System.out by a logger.(¦ñïî8ä¨ñ±à1
+L	java:S106m"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8å¨ñ±à1
+L	java:S106n"+Replace this use of System.out by a logger.(™¼åÃüÿÿÿÿ8å¨ñ±à1
+L	java:S106o"+Replace this use of System.out by a logger.(ªí¢¹þÿÿÿÿ8å¨ñ±à1
+L	java:S106p"+Replace this use of System.out by a logger.(™¼åÃüÿÿÿÿ8å¨ñ±à1
+L	java:S106q"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8å¨ñ±à1
+L	java:S106r"+Replace this use of System.out by a logger.(Ž‹€áûÿÿÿÿ8å¨ñ±à1
+G	java:S106s"+Replace this use of System.out by a logger.(ËÂÎÀ8æ¨ñ±à1
+G	java:S106t"+Replace this use of System.out by a logger.(¦ˆÝ8æ¨ñ±à1
+F	java:S106{"+Replace this use of System.out by a logger.(¹¹ç`8è¨ñ±à1
+M	java:S106€"+Replace this use of System.out by a logger.(¹Œ‰ùÿÿÿÿ8è¨ñ±à1
+M	java:S106"+Replace this use of System.out by a logger.(„Ö–Åüÿÿÿÿ8é¨ñ±à1

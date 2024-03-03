@@ -1,0 +1,31 @@
+
+P
+ src/main/java/saglik/Saglik.java,9\c\9c5d7dcb0f0fa079bf7f80de97a579336770bd4f
+P
+ src/main/java/entity/Doktor.java,8\8\886441a7caedfa5826dd9ccb2062d5ffeeba896f
+T
+$src/main/java/utility/Databases.java,a\6\a6b739a09e68f4a57c1d3db6d5d2b175b9f518f9
+]
+-src/main/java/repository/PersonInterface.java,9\f\9f7b93de37f09e04951663cc2e20ca09acc9ef7b
+^
+.src/main/java/repository/PersonRepository.java,1\4\143631e94dddbe72571c7ec70a2810e933bfc524
+Q
+!src/main/java/enums/Cinsiyet.java,2\3\2326f60aba0d72a1d402e44d8355351e56c874e6
+P
+ src/main/java/entity/Person.java,d\9\d9528c8eb803d38aaebaaaebd4c0de7ba8b6a991
+U
+%src/main/java/entity/NormalInsan.java,1\3\13389dc435c559e71fac93017a40c66c912b4aea
+V
+&src/main/java/entity/NormalPerson.java,3\5\351c51b17b7f21df2dc5c9e3745e5a53ef87a2e0
+P
+ src/main/java/entity/Doctor.java,b\9\b90bb6ba419921cb48417bfd834768964db1a418
+O
+src/main/java/enums/Gender.java,e\5\e5519f48f840d6735cf982d990f6d7b8c0ca5dad
+U
+%src/main/java/entity/SuperPerson.java,c\6\c6e98e9050b184a0ae82347aeb7d6f36d072272e
+P
+ src/main/java/Health_Runner.java,9\4\94d2b3a1f418f912fe5df5751e9e3327878cb8d6
+O
+src/main/java/HealthRunner.java,8\d\8d57ca678f1d26d37d1c65c07fcfa79f3b0d5ab6
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa

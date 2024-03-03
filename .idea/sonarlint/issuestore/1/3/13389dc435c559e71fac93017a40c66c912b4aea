@@ -1,0 +1,6 @@
+
+W	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(›ºÇ¾
+@	java:S106"+Replace this use of System.out by a logger.(Ýóýý
+E	java:S106$"+Replace this use of System.out by a logger.(Ñµ°ƒýÿÿÿÿ
+I
+java:S1128".Remove this unused import 'utility.Databases'.(Ÿë©ßÿÿÿÿÿ

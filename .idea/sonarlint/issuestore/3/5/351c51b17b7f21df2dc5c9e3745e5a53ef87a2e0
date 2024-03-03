@@ -1,0 +1,7 @@
+
+‚
+java:S4165"eRemove this useless assignment; "illness" already holds the assigned value along all execution paths.(ÈïÌü8½ëÁ²à1
+G	java:S106"+Replace this use of System.out by a logger.(ŒÑèº8¹›Û±à1
+G	java:S106"+Replace this use of System.out by a logger.(³Í’8¹›Û±à1
+L
+java:S1656"/Remove or correct this useless self-assignment.(ÈïÌü8¬¬—²à1
